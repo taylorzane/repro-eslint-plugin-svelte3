@@ -30,7 +30,7 @@ const plugins = [
 export default{
   input: './src/no-modifier-imports.js',
   output: {
-    file: './dist/index-no-modifier-imports.js',
+    file: './dist/no-modifier-imports.js',
     format: 'umd',
     name: 'ReproNoModifiers'
   },
