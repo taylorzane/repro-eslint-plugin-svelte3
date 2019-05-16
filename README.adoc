@@ -1,0 +1,3 @@
+== Svelte Build Repro
+
+This is a repro repository for a `eslint-plugin-svelte3` issue (\#TBD)

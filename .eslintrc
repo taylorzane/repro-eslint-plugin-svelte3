@@ -1,0 +1,22 @@
+{
+    "env": {
+        "es6": true,
+        "browser": true,
+        "mocha": true,
+        "node": true
+    },
+    "extends": [
+        "eslint:recommended"
+    ],
+    "plugins": [
+        "svelte3",
+    ],
+    "settings": {
+        "svelte3/ignore-styles": true,
+        "svelte3/lint-template": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 2019,
+        "sourceType": "module"
+    }
+}
